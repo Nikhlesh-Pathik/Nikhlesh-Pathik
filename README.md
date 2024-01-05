@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Nikhlesh-Pathik/Nikhlesh-Pathik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**naveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
